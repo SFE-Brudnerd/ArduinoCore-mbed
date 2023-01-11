@@ -1,0 +1,5 @@
+export FLAVOUR="thing_plus"
+export VARIANT=("SFE_NINAB306_THING_PLUS")
+export FQBNS=("sfe_ninab306_thing_plus")
+export LIBRARIES=("PDM SPI Wire MRI USBHID USBMSD ThreadDebug Scheduler SFU Nano33BLE_System SocketWrapper MLC")
+export BOOTLOADERS=("nano33ble")
